@@ -25,7 +25,8 @@ list_of_files = [".github/workflows/.gitkeep",
                  'Dockerfile',
                  'requirements.txt',
                  'setup.py',
-                 'research/trails.ipynb']
+                 'research/trails.ipynb',
+                 'test.py']
 
 
 for filepath in list_of_files:
